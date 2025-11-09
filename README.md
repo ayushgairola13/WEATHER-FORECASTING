@@ -55,6 +55,12 @@ LSTM models are well-suited for this task as they effectively learn sequential a
 * Temperature trend over time
 * Training vs. Validation loss curve
 * Actual vs. Predicted temperature plot
+  
+
+## **CONCLUSION**
+This project demonstrates how deep learning models like LSTM can effectively predict weather trends based on historical data.
+By learning temporal patterns, the model delivers accurate temperature forecasts, which can be extended for other parameters such as humidity or wind speed.
+
 
 ## **Author**
 **Ayush Gairola**  
