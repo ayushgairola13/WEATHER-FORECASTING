@@ -1,17 +1,18 @@
-**WEATHER FORECASTING using LSTM (Deep Learning model)**
+# **WEATHER FORECASTING using LSTM (Deep Learning model)**
 
 
 This project focuses on applying deep learning techniques, specifically Long Short-Term Memory (LSTM) networks, for time-series weather forecasting. The model predicts future temperature values using historical weather data that includes temperature, humidity, pressure, and wind speed.
 LSTM models are well-suited for this task as they effectively learn sequential and temporal patterns, making them ideal for meteorological predictions.
 
-**Technical Overview :**
+## **Technical Overview :**
 
 * Model Type: Sequential LSTM Neural Network
 * Objective: Predict future temperature trends
 * Frameworks Used: TensorFlow / Keras
 * Dataset: weather_data.csv containing meteorological parameters
+  
 
-**LIBRARIES USED :**
+## **LIBRARIES USED :**
 
 * NumPy
 * Pandas
@@ -19,7 +20,8 @@ LSTM models are well-suited for this task as they effectively learn sequential a
 * TensorFlow / Keras
 * Matplotlib
   
-**APPROACH :**
+  
+## **APPROACH :**
 
 1. **Data Preprocessing**
    * Loaded and visualized weather data using Pandas and Matplotlib.
@@ -41,7 +43,7 @@ LSTM models are well-suited for this task as they effectively learn sequential a
    * Used the last available time window to forecast future temperature values.
      
 
-**RESULTS :**
+## **RESULTS :**
 
 * The LSTM model successfully captured temporal dependencies in the dataset.
 * Forecasted temperature for the next time step: **26.56°C**
@@ -49,7 +51,7 @@ LSTM models are well-suited for this task as they effectively learn sequential a
 
 
 
-**VISUALISATION**
+## **VISUALISATION**
 * Temperature trend over time
 * Training vs. Validation loss curve
 * Actual vs. Predicted temperature plot
