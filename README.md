@@ -6,10 +6,10 @@ LSTM models are well-suited for this task as they effectively learn sequential a
 
 ## **Technical Overview :**
 
-* Model Type: Sequential LSTM Neural Network
-* Objective: Predict future temperature trends
-* Frameworks Used: TensorFlow / Keras
-* Dataset: weather_data.csv containing meteorological parameters
+* **Model Type:**      Sequential LSTM Neural Network
+* **Objective:**       Predict future TEMPERATURE trends
+* **Frameworks Used:** TensorFlow / Keras
+* **Dataset:**         _weather_data.csv_ containing different parameters
   
 
 ## **LIBRARIES USED :**
