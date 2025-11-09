@@ -49,7 +49,7 @@ LSTM models are well-suited for this task as they effectively learn sequential a
 
 
 
-**Visualizations**
+**VISUALISATION**
 * Temperature trend over time
 * Training vs. Validation loss curve
 * Actual vs. Predicted temperature plot
