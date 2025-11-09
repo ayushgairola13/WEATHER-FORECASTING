@@ -23,22 +23,22 @@ LSTM models are well-suited for this task as they effectively learn sequential a
   
 ## **APPROACH :**
 
-1. **Data Preprocessing**
+### 1. **Data Preprocessing**
    * Loaded and visualized weather data using Pandas and Matplotlib.
    * Normalized features (Temperature, Humidity, Wind Speed, Pressure) using MinMaxScaler.
    * Converted data into sequential format suitable for LSTM time-series forecasting.
 
-2. **Model Development**
+### 2. **Model Development**
    * Built a two-layer LSTM model with Dropout layers to prevent overfitting.
    * Added Dense layers for final output prediction.
    * Compiled the model using the Adam optimizer and Mean Squared Error (MSE) loss function.
 
-3. **Model Training and Evaluation**
+### 3. **Model Training and Evaluation**
    * Trained the model for 20 epochs with a train-test split of 80:20.
    * Monitored model performance using training and validation loss curves.
    * Achieved low validation loss (~0.0091), indicating good prediction accuracy.
 
-4. **Prediction and Forecasting**
+### 4. **Prediction and Forecasting**
    * Compared actual and predicted temperature values using visualization.
    * Used the last available time window to forecast future temperature values.
      
@@ -51,7 +51,7 @@ LSTM models are well-suited for this task as they effectively learn sequential a
 
 
 
-## **VISUALISATION**
+## **VISUALISATION :**
 * Temperature trend over time
 * Training vs. Validation loss curve
 * Actual vs. Predicted temperature plot
