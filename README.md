@@ -2,7 +2,7 @@
 
 
 This project focuses on applying deep learning techniques, specifically Long Short-Term Memory (LSTM) networks, for time-series weather forecasting. The model predicts future temperature values using historical weather data that includes temperature, humidity, pressure, and wind speed.
-LSTM models are well-suited for this task as they effectively learn sequential and temporal patterns, making them ideal for meteorological predictions.
+
 
 ## **Technical Overview :**
 
