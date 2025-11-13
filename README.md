@@ -43,6 +43,13 @@ This project focuses on applying deep learning techniques, specifically Long Sho
    * Used the last available time window to forecast future temperature values.
      
 
+
+## **VISUALIZATION :**
+* Temperature trend over time
+* Training vs. Validation loss curve
+* Actual vs. Predicted temperature plot
+
+
 ## **RESULTS :**
 
 * The LSTM model successfully captured temporal dependencies in the dataset.
@@ -50,12 +57,6 @@ This project focuses on applying deep learning techniques, specifically Long Sho
 * Training and validation loss curves demonstrated stable learning and good generalization performance.
 
 
-
-## **VISUALIZATION :**
-* Temperature trend over time
-* Training vs. Validation loss curve
-* Actual vs. Predicted temperature plot
-  
 
 ## **CONCLUSION**
 This project demonstrates how deep learning models like LSTM can effectively predict weather trends based on historical data.
