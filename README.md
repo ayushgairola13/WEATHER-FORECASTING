@@ -9,7 +9,8 @@ This project focuses on applying deep learning techniques, specifically Long Sho
 * **Model Type:**      Sequential LSTM Neural Network
 * **Objective:**       Predict future TEMPERATURE trends
 * **Frameworks Used:** TensorFlow / Keras
-* **Dataset:**         _weather_data.csv_ containing different parameters
+
+### **DATASET :**         _weather_data.csv_ containing different parameters (Temperature, Humidity, Wind Speed, Pressure)
   
 
 ## **LIBRARIES USED :**
