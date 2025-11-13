@@ -10,7 +10,7 @@ This project focuses on applying deep learning techniques, specifically Long Sho
 * **Objective:**       Predict future TEMPERATURE trends
 * **Frameworks Used:** TensorFlow / Keras
 
-### **DATASET :**         _weather_data.csv_ containing different parameters (Temperature, Humidity, Wind Speed, Pressure)
+* **DATASET :**         _weather_data.csv_ containing different parameters (Temperature, Humidity, Wind Speed, Pressure)
   
 
 ## **LIBRARIES USED :**
