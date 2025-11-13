@@ -67,6 +67,6 @@ By learning temporal patterns, the model delivers accurate temperature forecasts
 ## **Author**
 **Ayush Gairola**  
 *Data Science Trainee*
-(https://www.linkedin.com/in/ayush-gairola1310/)
-(https://github.com/ayushgairola13)
+| (https://www.linkedin.com/in/ayush-gairola1310/)
+| (https://github.com/ayushgairola13) |
 
